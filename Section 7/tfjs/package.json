@@ -1,0 +1,14 @@
+{
+  "name": "tfjs",
+  "version": "1.0.0",
+  "description": "Implementing TensorFlow JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Robert John",
+  "license": "ISC",
+  "dependencies": {
+    "@tensorflow/tfjs": "^1.1.2"
+  }
+}
