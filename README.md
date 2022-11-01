@@ -42,7 +42,3 @@ Windows, Mac OS or Linux<br/>
 
 * [Hands-On Unsupervised Learning with TensorFlow 2.0](https://www.packtpub.com/in/big-data-and-business-intelligence/hands-unsupervised-learning-tensorflow-20-video)
 
-### Download a free PDF
-
- <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
-<p align="center"> <a href="https://packt.link/free-ebook/9781789958614">https://packt.link/free-ebook/9781789958614 </a> </p>
